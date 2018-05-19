@@ -1,3 +1,5 @@
+package storagedbwebapp
+
 class UrlMappings {
 
     static mappings = {

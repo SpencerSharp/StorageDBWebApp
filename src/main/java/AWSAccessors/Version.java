@@ -1,4 +1,4 @@
-package AWSAccesserClasses;
+package AWSAccessors;
 
 import com.amazonaws.services.dynamodbv2.datamodeling.DynamoDBHashKey;
 import com.amazonaws.services.dynamodbv2.datamodeling.DynamoDBIgnore;
